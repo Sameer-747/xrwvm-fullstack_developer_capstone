@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Capstone additions
+node_modules/
+server/db.sqlite3
